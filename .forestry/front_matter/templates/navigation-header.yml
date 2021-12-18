@@ -18,5 +18,3 @@ fields:
     template: link
   config:
     labelField: link_text
-pages:
-- content/test.md
